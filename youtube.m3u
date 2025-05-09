@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 全球音乐
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825878/ei/Nh4eaP08k6SW7w-14-P4Cw/ip/172.183.215.211/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbrx3qOYnD59S3cmnGzcNCmys4oONhy1owFLsqxusk1vOez0kjkFrxtWOpZ0mySNBY9Ey3axBw3/spc/wk1kZjzxfInDS9v8nVkL3djvbXm2j0WSmx75sMA9a1bBPeDbWBKjxl0FIV8FA9c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPBBk54JNA5pFYn6pZuMOzAzzMKHUzK-iCq_NOHZM7fQAiBOCrbUSeuE7vYPRjqd7HNiVqPWz5iLiNffb1GfJq908w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 小猪佩奇-英文版
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -33,22 +33,22 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 4K风景
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825882/ei/Oh4eaIXYBf-M2_gP4aLj8As/ip/172.183.215.211/id/NJUjU9ALj4A.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AecWEAasAAbBSLc81WrDc-rQ8WAVk7HHOXzIypX58QIz18eCjhGWKMU5X3bcZBPLqZIyVE01kX1IlMPH/spc/wk1kZvhVycFn-BlUawYTQX4G3afjsYXRjC2cEcyqCXsF07-Qx550BiePYHuxmt0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOJE47R5Yx8guXbSsKT9zud1KyL1BPuPgCxGvwhkXfvbAiEAgBJXp6AWsLj9fhM4wRv5jmp_EtebzsMZqfqT1hTQDhQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 4K风景-音乐
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825882/ei/Oh4eaNCCOIeM2_gPmNHd-Qs/ip/172.183.215.211/id/uXNU0XgGZhs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbX_Xi7EN7_i7VooFUgtMIlE1j3N5yirKFVTnzCOqvj6YadJDAqKPtaVv-GomSqgLWQOWsWm95E/spc/wk1kZv5P6ViAek9qh8OFKPItO4HubuvYz37KhJpbQighcHr_ZFiL0rHWLdziSfI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIgI_DJAZIX8Jh24FXH2IvUAsieRykcYht6MjrLlvM1jAiEAj-0KuqjuxMmOIHWFo4AbFJalPmPgsOnXX8rQHFFd9m4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 空间站
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825883/ei/Ox4eaJqDHd6kir4P-rOx2As/ip/172.183.215.211/id/0FBiyFpV__g.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYrihFsGkI25hfGERIDU36sJ-H5lNWwY-v2zetICEgl9ThOZtoRvcJsjZzBB7DwZIZfXjEPZ95_/spc/wk1kZkILUrtYrAI8o8u3Kf4nLLLGObsfov5_W1AQjM0x4N-gV1UolW56IKpWFCw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTVCNkMnJFt_L3tYY_O8ltfOSPEtoG61S_Kjcsb0cGVUCIE1s83qD74LRtcFihrvuUsNMFRY1Z9Fu1N7MtgOkNzk-/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 放松/自然
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825884/ei/PB4eaOuUCeToybgPhpGIOA/ip/172.183.215.211/id/jfKfPfyJRdk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474946/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAa5yljg2bsZ0gQotopDKoFCkpWiwz3CAqJa4BpAVSaAzajd15E7IQguStHx4S_LS8IPtMQalmZn/spc/wk1kZsL2sYPCJicsj6X5H0Ldxs5h5r-iva1gSyREh_2LvgffRXt1wbfu3CZIoGI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51469039/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK4khkOVTXeaPbKMg2-8ymiQctCPxXaU2aqvybwhA83hAiEAqkIwIb4lpxcq-OVikxllTBQcB0fAWprD1hRx-jKxGuM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 연합뉴스TV
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825884/ei/PB4eaLOuHMKhlu8PqOrW8Qg/ip/172.183.215.211/id/6QZ_qc75ihU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AecWEAYuh3u-XyLWKdkOx-zbgFG7E-1fcmTRQP-vlbQETqb3FnaEwE2Pw36LQM2PhIX1p_iUDFwK9Ig7/spc/wk1kZrkKvisTMBUo8vcEbrGixYyg6ZwHGdSch3Dsuobrh2088eBoyR1WBkwxx8Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEUpLE2RwkN9-NTrSLJm-aUjeZ7I0sZLl5ZOAuHgCp8MCIA4tZja630sLsVl_97C1-TC9I6OxjmaVLv4z3M9ZMaW4/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", YTN뉴스
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 한국경제TV
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825887/ei/Px4eaMB4g4_b-A-379j5Cw/ip/172.183.215.211/id/NJUjU9ALj4A.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AecWEAZK8Le67m6xeRQvNLYfSSBffE8UaorZGXfaIBc5OGza2h5fKZIwSjTEsYU9917l-xnq2qFI_vbk/spc/wk1kZmTGxP2G8D3kaQ-vM_NsUSnLP5388oTL0xy49GiRlrmkOBpeCDRzdyeLM0s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIpJfzPMNN9aWWXDk_fgeRr4NhUZpZk4opEX1XcH0ds7AiA2Kf7y3-HaQkxR7bUAWE--OKyCI-ubQ5pWPV-Xy72X8g%3D%3D/file/index.m3u8
