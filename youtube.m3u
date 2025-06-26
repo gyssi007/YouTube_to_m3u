@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 放松/自然
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750941404/ei/fOpcaL76Md7Lu_kP3rjfEQ/ip/20.25.193.230/id/jfKfPfyJRdk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOf5LYeKIDZzMrgI-iEeS1VY2XKBYNHpSuGG6HNEuKzI-J1zBYY7TshtPioFGOCSA-JGiL4rG4X/spc/l3OVKbzzXsjaeAglUd9lvyXxuyMVcMRnLcC_hKPRgQoK6ERjh6aEDcgxQ_ExCsNmQt0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIqcov3EOyYtCwQS8RtsO4mDWGFN2X55Az-Ndnaw8j_qAiBUZpgELEMgMKAXih-kNe4SuoPhwFb9rAc4qs6FnGVZQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 연합뉴스TV
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
