@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 4K风景
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758307708/ei/HFHNaO2zKZP5ruEP97nEmAw/ip/128.24.161.198/id/NJUjU9ALj4A.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/ATw7iSV3xoCx_zryrcP40YJ7JIfwlIPM2zFKX89WQtNeIguk_MlYtm-K6PMRSH-p3KBxBcZZ0OmeUI3I/spc/hcYD5bEY0fPJQIX-ia7ocvc_KefgaVsHtVgw6wpOo4jRoKk6_tjTpa_ENan5j8bdq2w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593649/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfONGMQR0d2hLRHI8gkUN4awtlLmge2d6QGDDArkoozoCIH5YcAtS9o76VYcht_0ke1YoHPi1_piBs5pCe_VNXHHS/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 4K风景-音乐
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758307710/ei/HlHNaJX8F5iZ2_gPsLLLIA/ip/128.24.161.198/id/uXNU0XgGZhs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVq0j9WCAtoHOYu1z5t7SW8xA_LVmxOicoYbNdKYd6FQE73xxadGIO6EJ98qnSoUwAPW-Du_Rcq/spc/hcYD5VaUVG417uhO_Eh8upp7ch4k9UCc2bllijh-CvPXwfeIxPlBM27oyembf3qszNA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBoIXvN43CcN1L0DlcKJ0kkdfRPN-yU48iBOu2NFiEiQCICEPwWta-IT3CLlXPmRlqVrGgYul-tyH1pfzunC61t5M/file/index.m3u8
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", 空间站
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
